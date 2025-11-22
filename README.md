@@ -21,8 +21,8 @@ This DApp serves as the frontend interface for decentralized governance (QnA/Vot
 
 * Node.js (v18+)
 * npm or yarn
-* A WalletConnect Project ID (Yours: `a5f9260bc9bca570190d3b01f477fc45`)
-
+* A WalletConnect Project ID
+  
 ### Step 1: Clone and Install
 
 ```bash
