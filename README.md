@@ -1,4 +1,4 @@
-# 🚀 DG-DApp: Decentralized Governance on Base
+#  DG-DApp: Decentralized Governance on Base
 
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)](./)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
